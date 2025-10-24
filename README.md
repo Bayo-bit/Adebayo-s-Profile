@@ -1,8 +1,3 @@
-  alt="Olalekan Adebayo Moruff" 
-    width="180" 
-    style="border-radius: 50%; margin-bottom: 15px;"
-  />
-</div>
 
 <h1 align="center"><strong>Olalekan Adebayo Moruff</strong></h1>
 <p align="center">
