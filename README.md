@@ -1,8 +1,4 @@
-<!-- ===== Profile Header ===== -->
-<div align="center">
-  <img 
-    src="WhatsApp Image 2025-07-08 at 2.25.29 PM.jpeg" 
-    alt="Olalekan Adebayo Moruff" 
+  alt="Olalekan Adebayo Moruff" 
     width="180" 
     style="border-radius: 50%; margin-bottom: 15px;"
   />
