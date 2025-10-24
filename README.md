@@ -1,8 +1,7 @@
-<!-- Replace this with your uploaded GitHub image URL -->
-
-</p>
-
 <!-- ===== Header / Hero ===== -->
+<h1 align="center"><strong>Front-End Developer & Product Designer</strong></h1>
+
+add this attach picture to this code as the profile picture '<!-- ===== Header / Hero ===== -->
 <h1 align="center"><strong>Front-End Developer & Product Designer</strong></h1>
 <p align="center">
   Blending creativity and code to shape intuitive digital experiences
@@ -83,5 +82,4 @@ HTML · CSS · JavaScript (Learning)
 
 <p align="center">
   <small>Crafted with passion for design and user experience</small>
-</p>
-
+</p> 
