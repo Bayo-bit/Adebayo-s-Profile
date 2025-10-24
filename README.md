@@ -1,4 +1,4 @@
-<!-- ===== Profile Image ===== -->
+<<!-- Replace this with your uploaded GitHub image URL -->>
 <p align="center">
   <img src="<!-- Replace this with your uploaded GitHub image URL -->" 
        alt="Profile picture"
