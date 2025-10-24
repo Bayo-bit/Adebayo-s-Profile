@@ -1,10 +1,16 @@
-<!-- ===== Header / Hero ===== -->
-<h1 align="center"><strong>Front-End Developer & Product Designer</strong></h1>
+<!-- ===== Profile Header ===== -->
+<div align="center">
+  <img 
+    src="WhatsApp Image 2025-07-08 at 2.25.29 PM.jpeg" 
+    alt="Olalekan Adebayo Moruff" 
+    width="180" 
+    style="border-radius: 50%; margin-bottom: 15px;"
+  />
+</div>
 
-add this attach picture to this code as the profile picture '<!-- ===== Header / Hero ===== -->
-<h1 align="center"><strong>Front-End Developer & Product Designer</strong></h1>
+<h1 align="center"><strong>Olalekan Adebayo Moruff</strong></h1>
 <p align="center">
-  Blending creativity and code to shape intuitive digital experiences
+  <em>Front-End Developer & Product Designer | ALX Frontend Software Engineering Learner</em>
 </p>
 
 <div align="center">
@@ -15,31 +21,43 @@ add this attach picture to this code as the profile picture '<!-- ===== Header /
 
 ---
 
-## About Me
-Hello, I’m **Olalekan Adebayo Moruff**. Currently learning in the **ALX Frontend Software Engineering** program and an active **Product Designer**. I build visually engaging, intuitive, and accessible user experiences.
+## 👋 About Me
+Hello, I’m **Olalekan Adebayo Moruff**, currently enrolled in the **ALX Frontend Software Engineering Program**.  
+I began this journey to blend **creativity with technology** — transforming ideas into experiences that are both beautiful and functional.
 
-My mission is to merge clean code and thoughtful design to solve real-world challenges and deliver products users love.
+### 🌱 What Inspires Me
+I’m inspired by how design and code can **empower people**, **solve everyday challenges**, and **make digital interactions effortless**.  
+My passion lies in creating products that people enjoy using — where aesthetics meet usability.
+
+### 🎯 My Vision
+To become a **leading front-end engineer** who crafts accessible, human-centered, and visually consistent interfaces that make technology more intuitive and inclusive.
+
+### 💡 What I Want to Work On
+I’m interested in:
+- Front-end web applications that prioritize **accessibility and UX**
+- **Design systems** and **component-based interfaces**
+- **Tech-for-good** projects that have real community impact
 
 ---
 
-## Skills & Tools
+## 🧰 Skills & Tools
 
-### Design
+### 🖌️ Design
 User Research · Wireframing · Visual Design · Prototyping · Interaction Design · Accessibility · Animation
 
-### Tools
+### 🧩 Tools
 <p>
   <img alt="Figma" src="https://img.shields.io/badge/Figma-black?logo=figma&logoColor=white" />
   <img alt="Pinterest" src="https://img.shields.io/badge/Pinterest-black?logo=pinterest&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-black?logo=git&logoColor=white" />
 </p>
 
-### Development
+### 💻 Development
 HTML · CSS · JavaScript (Learning)
 
 ---
 
-## Featured Project
+## 🚀 Featured Project
 
 <details>
   <summary><strong>AfrikBite — Food Delivery Mobile App</strong></summary><br/>
@@ -52,26 +70,26 @@ HTML · CSS · JavaScript (Learning)
 <strong>Highlights</strong>
 <ul>
   <li>Designed intuitive browsing and frictionless checkout flows</li>
-  <li>Responsive adaption across multiple screen sizes</li>
-  <li>Visual consistency and branding that boosts trust and retention</li>
+  <li>Built responsive interfaces optimized for multiple devices</li>
+  <li>Maintained consistent brand identity and design language</li>
 </ul>
 </details>
 
 ---
 
-## Current Focus
+## 🔭 Current Focus
 <ul>
   <li>Creating usable and delightful digital interfaces</li>
   <li>Exploring strong visual systems for brand impact</li>
   <li>Practicing accessibility and responsive design</li>
   <li>Bringing designs to life with HTML, CSS & JavaScript</li>
-  <li>Iterating using user feedback</li>
+  <li>Iterating based on user feedback</li>
   <li>Building reusable components and design systems</li>
 </ul>
 
 ---
 
-## Connect with Me
+## 🤝 Connect with Me
 <p align="center">
   <a href="mailto:everydaybless15@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=flat-square" alt="email" /></a>
   <a href="https://www.linkedin.com/in/moruff-olalekan-adebayo-4a2412375/"><img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square" alt="linkedin" /></a>
@@ -81,5 +99,5 @@ HTML · CSS · JavaScript (Learning)
 ---
 
 <p align="center">
-  <small>Crafted with passion for design and user experience</small>
-</p> 
+  <small>✨ Crafted with passion for design, learning, and user experience ✨</small>
+</p>
