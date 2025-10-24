@@ -1,6 +1,7 @@
 <!-- ===== Profile Header ===== -->
 <div align="center"></div>
 
+<p align="center">
   <em>Front-End Developer & Product Designer | ALX Frontend Software Engineering Learner</em>
 </p>
 
