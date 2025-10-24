@@ -1,9 +1,5 @@
-<<!-- Replace this with your uploaded GitHub image URL -->>
-<p align="center">
-  <img src="<!-- Replace this with your uploaded GitHub image URL -->" 
-       alt="Profile picture"
-       width="180"
-       style="border-radius: 50%;"/>
+<!-- Replace this with your uploaded GitHub image URL -->
+
 </p>
 
 <!-- ===== Header / Hero ===== -->
