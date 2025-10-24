@@ -1,5 +1,5 @@
 
-  <em>Front-End Developer & Product Designer | ALX Frontend Software Engineering Learner</em>
+     <em>Front-End Developer & Product Designer | ALX Frontend Software Engineering Learner</em>
 </p>
 
 <div align="center">
