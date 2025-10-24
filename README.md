@@ -1,8 +1,6 @@
 <!-- ===== Profile Header ===== -->
 <div align="center"></div>
 
-<h1 align="center"><strong>Olalekan Adebayo Moruff</strong></h1>
-<p align="center">
   <em>Front-End Developer & Product Designer | ALX Frontend Software Engineering Learner</em>
 </p>
 
